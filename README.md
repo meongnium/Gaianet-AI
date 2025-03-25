@@ -124,7 +124,7 @@ By running a Gaia Node, we are actually deploying an AI Agent with a specific AI
 ---
 
 ## 8. Chat with Your Node
-To interact with your node and earn XP, visit: [Pengu Gaia Domain](https://pengu.gaia.domains)
+To interact with your node and earn XP, visit: [Pengu Gaia Domain](https://revonode.gaia.domains)
 
 * You need **Credit Balance** to be able to chat with your node.
 * Everyday, Convert your **Gaiapoints** to **Credit Balance**.
@@ -142,7 +142,7 @@ To interact with your node and earn XP, visit: [Pengu Gaia Domain](https://pengu
 2. **Download the Python Script**:
    - Run:
      ```bash
-     curl -L -o gaiabot.py https://github.com/0xmoei/Gaianet-AI/raw/main/gaiabot.py
+     curl -L -o gaiabot.py https://github.com/meongnium/Gaianet-AI/raw/main/gaiabot.py
      ```
 
 3. **Run the Script**:
